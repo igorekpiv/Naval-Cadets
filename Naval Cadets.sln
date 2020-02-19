@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naval Cadets", "Naval Cadets\Naval Cadets.csproj", "{46F4E2FE-C92D-4129-83F3-79B3356B0F56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "My Naval Cadets", "My Naval Cadets\My Naval Cadets.csproj", "{1B50B494-1D32-45EA-A4CC-C4523B8879D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46F4E2FE-C92D-4129-83F3-79B3356B0F56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F4E2FE-C92D-4129-83F3-79B3356B0F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F4E2FE-C92D-4129-83F3-79B3356B0F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F4E2FE-C92D-4129-83F3-79B3356B0F56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B50B494-1D32-45EA-A4CC-C4523B8879D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B50B494-1D32-45EA-A4CC-C4523B8879D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B50B494-1D32-45EA-A4CC-C4523B8879D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B50B494-1D32-45EA-A4CC-C4523B8879D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4F22114-162E-4B5F-9BD0-683A6979B3AE}
+	EndGlobalSection
+EndGlobal
