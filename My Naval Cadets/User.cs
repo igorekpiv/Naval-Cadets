@@ -59,13 +59,13 @@ namespace My_Naval_Cadets
         {
             return Name;
         }
-        public string ShotName 
-        {
-            get
-            {
-                return $"{FirstName}{Name.Substring(0, 1)}.{SecondName.Substring(0, 1)}.";
-            }
-        }
+      //  public string ShotName 
+      //  {
+      //      get
+      //      {
+      //          return $"{FirstName}{Name.Substring(0, 1)}.{SecondName.Substring(0, 1)}.";
+      //      }
+      //  }
         /// <summary>
         /// Приветствие.
         /// </summary>
